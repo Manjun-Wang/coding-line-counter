@@ -1,5 +1,5 @@
 # coding-line-counter
-this app helps you with counting how many lines of actual code you have written
+this app helps you with counting how many lines of actual code you have writte
 
 ## Build
 As a python app, standalone command line tool start with code folder root 
